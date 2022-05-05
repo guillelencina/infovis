@@ -1,1 +1,23 @@
 Splom
+Index Charts
+Stacked Graphs
+Small Multiples
+Horizon Graphs
+Statistical Distributions
+  Stem-and-Leaf Plots
+  Q-Q Plots
+Scatter Plot Matrix (SPLOM)
+Parallel Coordinates
+Maps
+  Flow Maps
+  Choropleth Maps
+  Graduated Symbol Maps
+  Cartograms
+Hierarchies
+  Node-Link Diagrams
+  Adjacency Diagrams
+  Enclosure Diagrams
+Networks
+  Force-Directed Layout
+  Arc Diagrams
+  Matrix Views
