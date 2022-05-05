@@ -1,4 +1,4 @@
-Splom
+Tipos de gráficos
 Index Charts
 Stacked Graphs
 Small Multiples
